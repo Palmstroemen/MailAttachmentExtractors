@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-01 03:36+CET\n"
+"PO-Revision-Date: 2019-11-01 03:47+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: checkThis_02/analysisBasis.py:111
+msgid "* The sender calls himself: "
+msgstr "* Der Absender bezeichnet sich selbst als: "
+
+#: checkThis_02/analysisBasis.py:113
+msgid ". and sends from the domain: "
+msgstr ". Und sendet von der Domain: "
+
+#: checkThis_02/analysisBasis.py:115
+msgid ". with the mailaddress: %s"
+msgstr ". mit der Mailadresse: %s"
+
+#: checkThis_02/analysisBasis.py:116
+msgid ". !!! Please check yourself if this is plausible to you!"
+msgstr ". !!! Bitte prüfe selbst, ob das für dich plausibel ist!"
+
+#: checkThis_02/analysisBasis.py:117
+msgid ". !!! Pay attention to tricks like \"rnicrosoft\"!"
+msgstr ". !!! Achte insbesondere auf Tricks wie: „rnicrosoft“!"
+
+#: checkThis_02/analysisBasis.py:118
+msgid ""
+". !!! An employee of bankZ would have a mail-address like: hans.zimmer@bankZ."
+"com"
+msgstr ""
+". !!! Ein Mitarbeiter der BankZ hätte bestimmt eine Mailadresse wie: hans."
+"zimmer@bankZ.com"

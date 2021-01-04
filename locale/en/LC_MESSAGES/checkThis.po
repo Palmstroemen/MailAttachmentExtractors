@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-01 09:12+CET\n"
+"PO-Revision-Date: 2019-11-01 09:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: checkThis_02/Region.py:40
+msgid "Analysis of the sender:_______"
+msgstr "Analysis of the sender:_______"
+
+#: checkThis_02/Region.py:41
+msgid "* The sender calls himself: "
+msgstr "* The sender calls himself: "
+
+#: checkThis_02/Region.py:42
+msgid ". and sends from the domain: "
+msgstr ". and sends from the domain: "
+
+#: checkThis_02/Region.py:43
+msgid ". with the mailaddress: %s"
+msgstr ". with the mailaddress: %s"
+
+#: checkThis_02/Region.py:44
+msgid ". !!! Please check yourself if this is plausible to you!"
+msgstr ". !!! Please check yourself if this is plausible to you!"
+
+#: checkThis_02/Region.py:45
+msgid ""
+". !!! An employee of bankZ would have a mail-address like: hans.zimmer@bankZ."
+"com"
+msgstr ""
+". !!! An employee of bankZ would have a mail-address like: hans.zimmer@bankZ."
+"com"
+
+#: checkThis_02/Region.py:46
+msgid ". !!! Pay attention to tricks like \"rnicrosoft\"!"
+msgstr ". !!! Pay attention to tricks like \"rnicrosoft\"!"
